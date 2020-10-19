@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my profile. I am a developer who makes a project and sends them to frozen-state.
+Welcome to my profile. I am a developer who makes a projects and sends them to frozen-state.
 
 ### 🔭 There are several major projects that are still alive today
 
