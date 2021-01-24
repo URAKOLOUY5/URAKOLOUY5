@@ -8,7 +8,7 @@ I am ordinary developer whose main hobby is to make maps on Source Engine and no
 
 [U5Maps](https://github.com/URAKOLOUY5/u5-maps) - my game base created on Mapbase for my maps
 
-ᅠᅠᅠᅠ**DBR (Damnbuilding Rebirth)** - Horror project based on Mapbase (as well on U5 Maps)
+ᅠ**DBR (Damnbuilding Rebirth)** - Horror project based on Mapbase (as well on U5 Maps)
 
 [IDEXV/ArcCW-KerkasAdditions](https://github.com/IDEXV/ArcCW-KerkasAdditions) - New balanced attachments and firemods for ARCCW
 
