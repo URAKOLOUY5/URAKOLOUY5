@@ -4,7 +4,7 @@ I am ordinary developer whose main hobby is to make maps on Source Engine and no
 
 ### 🔭 There are several major projects that are still alive today
 
-[SourceMaps](https://github.com/URAKOLOUY5/SourceMaps) - sources of all my maps made on Source games (SourceMaps can be translated as Source Maps)
+[SourceMaps](https://github.com/URAKOLOUY5/SourceMaps) - sources of all my maps made on Source games (SourceMaps can be translated as Maps for Source and as Sources for Maps)
 
 [U5Maps](https://github.com/URAKOLOUY5/u5-maps) - my game base created on Mapbase for my maps
 
