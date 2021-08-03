@@ -2,7 +2,7 @@
 
 I am ordinary developer whose main hobby is to make maps on Source Engine and not release them. Also i make mini mods and not release them.
 
-### [Portfolio]()
+### [Portfolio]() - contain all of my works
 
 ### 🔭 There are several major projects that are still alive today
 
