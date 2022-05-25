@@ -10,5 +10,9 @@ I am ordinary developer whose main hobby is to make maps on Source Engine and no
 
 [portal-sdk-2013](https://github.com/URAKOLOUY5/portal-sdk-2013) - Small project that provides Portal source code on Source SDK 2013
 
+[portal2-sdk13](https://github.com/URAKOLOUY5/portal2-sdk13) - Portal 2 assets converted to use in Source SDK 2013
+
+[mapbase-portal-2013](https://github.com/URAKOLOUY5/mapbase-portal-2013) - Clean Portal source code applied on clean Mapbase source (+fixed 3D skybox rendering)
+
 [GWZ-Hud](https://github.com/URAKOLOUY5/GWZ-Hud) - Recreation of the HUD from COD:Warzone for Garry's Mod
   
