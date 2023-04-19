@@ -14,6 +14,8 @@ I am ordinary developer whose main hobby is to make maps on Source Engine and no
 
 **[mapbase-portal-2013](https://github.com/URAKOLOUY5/mapbase-portal-2013)** - Clean Portal source code applied on clean Mapbase source (+fixed 3D skybox rendering)
 
+**[NH2-Coop](https://github.com/URAKOLOUY5/NH2-Coop-Release)** - Gamemode that allows you to play Nightmare House 2 with friends.
+
 ### Some guides to follow
 
 **[How to rearrange KDE Plasma systemtray](https://github.com/URAKOLOUY5/kde-systemtray-rearrange)** - workaround to allow rearranging for KDE Plasma systemtray
