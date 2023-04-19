@@ -2,7 +2,7 @@
 
 I am ordinary developer whose main hobby is to make maps on Source Engine and not release them. Also i make mini mods and not release them.
 
-### 🔭 There are several major projects that are still alive today
+### 🔭 Major projects
 
 **[SourceMaps](https://github.com/URAKOLOUY5/SourceMaps)** - sources of all my maps made on Source games (SourceMaps can be translated as Maps for Source and as Sources for Maps)
 
