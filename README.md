@@ -2,7 +2,9 @@
 
 I am ordinary developer whose main hobby is to make maps on Source Engine and not release them. Also i make mini mods and not release them.
 
-### 🔭 Major projects
+⠀
+
+![](https://cdn.discordapp.com/attachments/619231812987650059/1098142413433880606/major-projects.png)
 
 **[SourceMaps](https://github.com/URAKOLOUY5/SourceMaps)** - sources of all my maps made on Source games (SourceMaps can be translated as Maps for Source and as Sources for Maps)
 
@@ -16,6 +18,8 @@ I am ordinary developer whose main hobby is to make maps on Source Engine and no
 
 **[NH2-Coop](https://github.com/URAKOLOUY5/NH2-Coop-Release)** - Gamemode that allows you to play Nightmare House 2 with friends.
 
-### Some guides to follow
+⠀
+
+![](https://cdn.discordapp.com/attachments/619231812987650059/1098142413677154354/tutorials-to-follow.png)
 
 **[How to rearrange KDE Plasma systemtray](https://github.com/URAKOLOUY5/kde-systemtray-rearrange)** - workaround to allow rearranging for KDE Plasma systemtray
